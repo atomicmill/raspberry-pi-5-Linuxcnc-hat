@@ -1,0 +1,2175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>D:\design\PCB\kicad\rpi5-cnc-hat\rpi5-cnc-hat.kicad_sch</source>
+    <date>3/20/2024 12:38:40 PM</date>
+    <tool>Eeschema 7.0.10</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>rpi5-cnc-hat.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/driver-output-X/" tstamps="/e61cd852-c059-48b8-a858-8d77588746c0/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>driver-output.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/driver-output-Y/" tstamps="/e0df29db-f33c-4da2-aae2-87dfe3172569/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>driver-output.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/driver-output-Z/" tstamps="/6e95fd5d-2102-4f48-9132-645764f88a2b/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>driver-output.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/driver-output-A/" tstamps="/a23cfee4-ce90-4768-803b-dcdbd8b24c56/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>driver-output.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="6" name="/driver-output-B/" tstamps="/4142abc7-6bc3-44ba-a23f-cd1c885ba64a/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>driver-output.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="7" name="/input1/" tstamps="/f01c58f2-0a2a-4031-a1ff-2bcfde020bbc/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>input.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="8" name="/input2/" tstamps="/3fc173af-f308-4a39-8856-0a5c1db8a138/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>input.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="9" name="/input3/" tstamps="/e3d54af7-3f2d-465d-87f6-98351b51b2a5/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>input.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="10" name="/input4/" tstamps="/2b0bd622-e9f5-4156-9577-5cf66b3affa1/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>input.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="11" name="/input5/" tstamps="/4344c07b-b469-4487-a974-79a803c4886d/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>input.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="12" name="/output1/" tstamps="/39839922-4507-4432-8651-7daf93aa5ae1/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>output.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="13" name="/output2/" tstamps="/033b43b6-887a-4cd1-b124-9d3fc238a50a/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>output.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="14" name="/output3/" tstamps="/5fcddbba-6542-419d-81f4-23a5de126d8f/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>output.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C27">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rpi5-cnc-hat.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>99ad39d0-7686-4326-acf2-9515fa4bf239</tstamps>
+    </comp>
+    <comp ref="C28">
+      <value>22u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rpi5-cnc-hat.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3248c974-364a-4ad9-a0f3-104516963aa2</tstamps>
+    </comp>
+    <comp ref="C29">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rpi5-cnc-hat.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>36ec8ebb-dfce-4c9f-bffa-d0eacb594c43</tstamps>
+    </comp>
+    <comp ref="C30">
+      <value>22u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rpi5-cnc-hat.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aa2cd9dc-6cc7-4c77-8d15-842d9f86bec7</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED_Small_Filled</value>
+      <footprint>LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED_Small_Filled" description="Light emitting diode, small symbol, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rpi5-cnc-hat.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode, small symbol, filled shape"/>
+      <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cd95cf1b-6035-4cd3-9d1a-d50ba7b016d5</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED_Small_Filled</value>
+      <footprint>LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED_Small_Filled" description="Light emitting diode, small symbol, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rpi5-cnc-hat.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode, small symbol, filled shape"/>
+      <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>432b28e3-4a11-4ff8-ae47-c7077c3b9f61</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED_Small_Filled</value>
+      <footprint>LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED_Small_Filled" description="Light emitting diode, small symbol, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rpi5-cnc-hat.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode, small symbol, filled shape"/>
+      <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>acf76385-1464-48ec-aad3-3730619007cb</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LED_Small_Filled</value>
+      <footprint>LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED_Small_Filled" description="Light emitting diode, small symbol, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rpi5-cnc-hat.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode, small symbol, filled shape"/>
+      <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>35b9b710-005d-41e5-b2e7-093a4924bd1c</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>LED_Small_Filled</value>
+      <footprint>LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED_Small_Filled" description="Light emitting diode, small symbol, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rpi5-cnc-hat.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode, small symbol, filled shape"/>
+      <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>708202ce-31f5-4bf3-9894-fc2f21154cc1</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>Polyfuse_Small</value>
+      <footprint>Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="Polyfuse_Small" description="Resettable fuse, polymeric positive temperature coefficient, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rpi5-cnc-hat.kicad_sch"/>
+      <property name="ki_description" value="Resettable fuse, polymeric positive temperature coefficient, small symbol"/>
+      <property name="ki_keywords" value="resettable fuse PTC PPTC polyfuse polyswitch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>86cf0a32-66ce-4788-8282-f0a55accb9ee</tstamps>
+    </comp>
+    <comp ref="F2">
+      <value>Polyfuse_Small</value>
+      <footprint>Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="Polyfuse_Small" description="Resettable fuse, polymeric positive temperature coefficient, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rpi5-cnc-hat.kicad_sch"/>
+      <property name="ki_description" value="Resettable fuse, polymeric positive temperature coefficient, small symbol"/>
+      <property name="ki_keywords" value="resettable fuse PTC PPTC polyfuse polyswitch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e11ef28-a904-497f-97cb-7e736298a458</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Raspberry_Pi</value>
+      <footprint>RPI:raspberrypi</footprint>
+      <datasheet>https://www.raspberrypi.org/documentation/hardware/raspberrypi/schematics/rpi_SCH_3bplus_1p0_reduced.pdf</datasheet>
+      <libsource lib="Connector" part="Raspberry_Pi_2_3" description="expansion header for Raspberry Pi 2 &amp; 3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rpi5-cnc-hat.kicad_sch"/>
+      <property name="ki_description" value="expansion header for Raspberry Pi 2 &amp; 3"/>
+      <property name="ki_keywords" value="raspberrypi gpio"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eb07ace3-b749-4626-baf8-739919b5cf03</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rpi5-cnc-hat.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b550baf5-8cbe-4e7d-86db-edc4916b37e3</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rpi5-cnc-hat.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3be23de7-429f-4126-8540-dd78b8e79553</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rpi5-cnc-hat.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b60e6644-bd99-4cb6-b4f7-ca198550b411</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rpi5-cnc-hat.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d61a086-7a5f-431b-ac97-08e756cff486</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rpi5-cnc-hat.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f78c753-2889-4e03-bd3f-753a6ee89ad6</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>Screw_Terminal_01x04</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-4-3.5-H_1x04_P3.50mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x04" description="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rpi5-cnc-hat.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a2fb1019-4381-40d9-8fdc-d934f0d5a7d7</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>Conn_01x02_Pin</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Pin" description="Generic connector, single row, 01x02, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rpi5-cnc-hat.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>34b58048-9434-4178-abaa-0dd9f282f0e7</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>Conn_01x02_Pin</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Pin" description="Generic connector, single row, 01x02, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rpi5-cnc-hat.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b05966d5-607b-4771-bda4-97f4dbef9888</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rpi5-cnc-hat.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>29b924b7-76ab-44ae-9fee-71c361d50ed3</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rpi5-cnc-hat.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>30631c02-80c9-409f-97df-007a5f42aa7d</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>4K7</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rpi5-cnc-hat.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6cb6c076-1fdd-454d-a8d3-0182fe55a686</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rpi5-cnc-hat.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4575afe1-040d-4fe2-9e21-ca6ee88e62a4</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rpi5-cnc-hat.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff666f9f-a4e4-4b67-8402-ac1cc67e7079</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rpi5-cnc-hat.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bb01cf11-4b77-4e4e-99f6-b8eb3313e52e</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>TSR_1-2450</value>
+      <footprint>Converter_DCDC:Converter_DCDC_TRACO_TSR-1_THT</footprint>
+      <datasheet>http://www.tracopower.com/products/tsr1.pdf</datasheet>
+      <libsource lib="Regulator_Switching" part="TSR_1-2450" description="1A step-down regulator module, fixed 5V output voltage, 5-36V input voltage, -40°C to +85°C temperature range, TO-220 compatible LM78xx replacement"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rpi5-cnc-hat.kicad_sch"/>
+      <property name="ki_description" value="1A step-down regulator module, fixed 5V output voltage, 5-36V input voltage, -40°C to +85°C temperature range, TO-220 compatible LM78xx replacement"/>
+      <property name="ki_keywords" value="dc-dc traco buck"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3970da45-1537-460c-801e-b022d54718aa</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>TSR_1-2433</value>
+      <footprint>Converter_DCDC:Converter_DCDC_TRACO_TSR-1_THT</footprint>
+      <datasheet>http://www.tracopower.com/products/tsr1.pdf</datasheet>
+      <libsource lib="Regulator_Switching" part="TSR_1-2433" description="1A step-down regulator module, fixed 3.3V output voltage, 5-36V input voltage, -40°C to +85°C temperature range, TO-220 compatible LM78xx replacement"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rpi5-cnc-hat.kicad_sch"/>
+      <property name="ki_description" value="1A step-down regulator module, fixed 3.3V output voltage, 5-36V input voltage, -40°C to +85°C temperature range, TO-220 compatible LM78xx replacement"/>
+      <property name="ki_keywords" value="dc-dc traco buck"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad98311e-55f9-4d32-ab30-ca25af4d8b30</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="driver-output-X"/>
+      <property name="Sheetfile" value="driver-output.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/driver-output-X/" tstamps="/e61cd852-c059-48b8-a858-8d77588746c0/"/>
+      <tstamps>246660dd-ba42-42cd-92d3-f97009a87079</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="driver-output-X"/>
+      <property name="Sheetfile" value="driver-output.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/driver-output-X/" tstamps="/e61cd852-c059-48b8-a858-8d77588746c0/"/>
+      <tstamps>df6d1381-35e3-48d1-840a-6e19a141cc82</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>Screw_Terminal_01x04</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-4-3.5-H_1x04_P3.50mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x04" description="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="driver-output-X"/>
+      <property name="Sheetfile" value="driver-output.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/driver-output-X/" tstamps="/e61cd852-c059-48b8-a858-8d77588746c0/"/>
+      <tstamps>2d32afce-9f1a-41a2-9452-2a22ff576e4b</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>π120U30</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.rpsemi.com/public/doc/2Pai_%CF%8012xUxx_20200416_EN.pdf</datasheet>
+      <libsource lib="Isolator" part="π120U30" description="Dual-channel digital isolator, 3V/5V level translation, Safe LOW, SOIC-8"/>
+      <property name="Sheetname" value="driver-output-X"/>
+      <property name="Sheetfile" value="driver-output.kicad_sch"/>
+      <property name="ki_description" value="Dual-channel digital isolator, 3V/5V level translation, Safe LOW, SOIC-8"/>
+      <property name="ki_keywords" value="Dual-channel digital isolator pi120U30"/>
+      <sheetpath names="/driver-output-X/" tstamps="/e61cd852-c059-48b8-a858-8d77588746c0/"/>
+      <tstamps>97f4235c-892a-4e51-9581-535a86df0fde</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>74LVC2G34</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6_Handsoldering</footprint>
+      <datasheet>http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf</datasheet>
+      <libsource lib="74xGxx" part="74LVC2G34" description="Dual Buffer, Low-Voltage CMOS"/>
+      <property name="Sheetname" value="driver-output-X"/>
+      <property name="Sheetfile" value="driver-output.kicad_sch"/>
+      <property name="ki_description" value="Dual Buffer, Low-Voltage CMOS"/>
+      <property name="ki_keywords" value="Dual Buffer LVC CMOS"/>
+      <sheetpath names="/driver-output-X/" tstamps="/e61cd852-c059-48b8-a858-8d77588746c0/"/>
+      <tstamps>d8c172bc-d6b3-4d31-ae5a-6fef95722f12 da403108-25a3-48c9-aaaf-64497d798909 2050d4bf-b60c-4fb5-8c7e-13de486c350a</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="driver-output-Y"/>
+      <property name="Sheetfile" value="driver-output.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/driver-output-Y/" tstamps="/e0df29db-f33c-4da2-aae2-87dfe3172569/"/>
+      <tstamps>246660dd-ba42-42cd-92d3-f97009a87079</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="driver-output-Y"/>
+      <property name="Sheetfile" value="driver-output.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/driver-output-Y/" tstamps="/e0df29db-f33c-4da2-aae2-87dfe3172569/"/>
+      <tstamps>df6d1381-35e3-48d1-840a-6e19a141cc82</tstamps>
+    </comp>
+    <comp ref="J12">
+      <value>Screw_Terminal_01x04</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-4-3.5-H_1x04_P3.50mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x04" description="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="driver-output-Y"/>
+      <property name="Sheetfile" value="driver-output.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/driver-output-Y/" tstamps="/e0df29db-f33c-4da2-aae2-87dfe3172569/"/>
+      <tstamps>2d32afce-9f1a-41a2-9452-2a22ff576e4b</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>π120U30</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.rpsemi.com/public/doc/2Pai_%CF%8012xUxx_20200416_EN.pdf</datasheet>
+      <libsource lib="Isolator" part="π120U30" description="Dual-channel digital isolator, 3V/5V level translation, Safe LOW, SOIC-8"/>
+      <property name="Sheetname" value="driver-output-Y"/>
+      <property name="Sheetfile" value="driver-output.kicad_sch"/>
+      <property name="ki_description" value="Dual-channel digital isolator, 3V/5V level translation, Safe LOW, SOIC-8"/>
+      <property name="ki_keywords" value="Dual-channel digital isolator pi120U30"/>
+      <sheetpath names="/driver-output-Y/" tstamps="/e0df29db-f33c-4da2-aae2-87dfe3172569/"/>
+      <tstamps>97f4235c-892a-4e51-9581-535a86df0fde</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>74LVC2G34</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6_Handsoldering</footprint>
+      <datasheet>http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf</datasheet>
+      <libsource lib="74xGxx" part="74LVC2G34" description="Dual Buffer, Low-Voltage CMOS"/>
+      <property name="Sheetname" value="driver-output-Y"/>
+      <property name="Sheetfile" value="driver-output.kicad_sch"/>
+      <property name="ki_description" value="Dual Buffer, Low-Voltage CMOS"/>
+      <property name="ki_keywords" value="Dual Buffer LVC CMOS"/>
+      <sheetpath names="/driver-output-Y/" tstamps="/e0df29db-f33c-4da2-aae2-87dfe3172569/"/>
+      <tstamps>d8c172bc-d6b3-4d31-ae5a-6fef95722f12 da403108-25a3-48c9-aaaf-64497d798909 2050d4bf-b60c-4fb5-8c7e-13de486c350a</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="driver-output-Z"/>
+      <property name="Sheetfile" value="driver-output.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/driver-output-Z/" tstamps="/6e95fd5d-2102-4f48-9132-645764f88a2b/"/>
+      <tstamps>246660dd-ba42-42cd-92d3-f97009a87079</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="driver-output-Z"/>
+      <property name="Sheetfile" value="driver-output.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/driver-output-Z/" tstamps="/6e95fd5d-2102-4f48-9132-645764f88a2b/"/>
+      <tstamps>df6d1381-35e3-48d1-840a-6e19a141cc82</tstamps>
+    </comp>
+    <comp ref="J13">
+      <value>Screw_Terminal_01x04</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-4-3.5-H_1x04_P3.50mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x04" description="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="driver-output-Z"/>
+      <property name="Sheetfile" value="driver-output.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/driver-output-Z/" tstamps="/6e95fd5d-2102-4f48-9132-645764f88a2b/"/>
+      <tstamps>2d32afce-9f1a-41a2-9452-2a22ff576e4b</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>π120U30</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.rpsemi.com/public/doc/2Pai_%CF%8012xUxx_20200416_EN.pdf</datasheet>
+      <libsource lib="Isolator" part="π120U30" description="Dual-channel digital isolator, 3V/5V level translation, Safe LOW, SOIC-8"/>
+      <property name="Sheetname" value="driver-output-Z"/>
+      <property name="Sheetfile" value="driver-output.kicad_sch"/>
+      <property name="ki_description" value="Dual-channel digital isolator, 3V/5V level translation, Safe LOW, SOIC-8"/>
+      <property name="ki_keywords" value="Dual-channel digital isolator pi120U30"/>
+      <sheetpath names="/driver-output-Z/" tstamps="/6e95fd5d-2102-4f48-9132-645764f88a2b/"/>
+      <tstamps>97f4235c-892a-4e51-9581-535a86df0fde</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>74LVC2G34</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6_Handsoldering</footprint>
+      <datasheet>http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf</datasheet>
+      <libsource lib="74xGxx" part="74LVC2G34" description="Dual Buffer, Low-Voltage CMOS"/>
+      <property name="Sheetname" value="driver-output-Z"/>
+      <property name="Sheetfile" value="driver-output.kicad_sch"/>
+      <property name="ki_description" value="Dual Buffer, Low-Voltage CMOS"/>
+      <property name="ki_keywords" value="Dual Buffer LVC CMOS"/>
+      <sheetpath names="/driver-output-Z/" tstamps="/6e95fd5d-2102-4f48-9132-645764f88a2b/"/>
+      <tstamps>d8c172bc-d6b3-4d31-ae5a-6fef95722f12 da403108-25a3-48c9-aaaf-64497d798909 2050d4bf-b60c-4fb5-8c7e-13de486c350a</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="driver-output-A"/>
+      <property name="Sheetfile" value="driver-output.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/driver-output-A/" tstamps="/a23cfee4-ce90-4768-803b-dcdbd8b24c56/"/>
+      <tstamps>246660dd-ba42-42cd-92d3-f97009a87079</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="driver-output-A"/>
+      <property name="Sheetfile" value="driver-output.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/driver-output-A/" tstamps="/a23cfee4-ce90-4768-803b-dcdbd8b24c56/"/>
+      <tstamps>df6d1381-35e3-48d1-840a-6e19a141cc82</tstamps>
+    </comp>
+    <comp ref="J14">
+      <value>Screw_Terminal_01x04</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-4-3.5-H_1x04_P3.50mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x04" description="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="driver-output-A"/>
+      <property name="Sheetfile" value="driver-output.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/driver-output-A/" tstamps="/a23cfee4-ce90-4768-803b-dcdbd8b24c56/"/>
+      <tstamps>2d32afce-9f1a-41a2-9452-2a22ff576e4b</tstamps>
+    </comp>
+    <comp ref="U9">
+      <value>π120U30</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.rpsemi.com/public/doc/2Pai_%CF%8012xUxx_20200416_EN.pdf</datasheet>
+      <libsource lib="Isolator" part="π120U30" description="Dual-channel digital isolator, 3V/5V level translation, Safe LOW, SOIC-8"/>
+      <property name="Sheetname" value="driver-output-A"/>
+      <property name="Sheetfile" value="driver-output.kicad_sch"/>
+      <property name="ki_description" value="Dual-channel digital isolator, 3V/5V level translation, Safe LOW, SOIC-8"/>
+      <property name="ki_keywords" value="Dual-channel digital isolator pi120U30"/>
+      <sheetpath names="/driver-output-A/" tstamps="/a23cfee4-ce90-4768-803b-dcdbd8b24c56/"/>
+      <tstamps>97f4235c-892a-4e51-9581-535a86df0fde</tstamps>
+    </comp>
+    <comp ref="U10">
+      <value>74LVC2G34</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6_Handsoldering</footprint>
+      <datasheet>http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf</datasheet>
+      <libsource lib="74xGxx" part="74LVC2G34" description="Dual Buffer, Low-Voltage CMOS"/>
+      <property name="Sheetname" value="driver-output-A"/>
+      <property name="Sheetfile" value="driver-output.kicad_sch"/>
+      <property name="ki_description" value="Dual Buffer, Low-Voltage CMOS"/>
+      <property name="ki_keywords" value="Dual Buffer LVC CMOS"/>
+      <sheetpath names="/driver-output-A/" tstamps="/a23cfee4-ce90-4768-803b-dcdbd8b24c56/"/>
+      <tstamps>d8c172bc-d6b3-4d31-ae5a-6fef95722f12 da403108-25a3-48c9-aaaf-64497d798909 2050d4bf-b60c-4fb5-8c7e-13de486c350a</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="driver-output-B"/>
+      <property name="Sheetfile" value="driver-output.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/driver-output-B/" tstamps="/4142abc7-6bc3-44ba-a23f-cd1c885ba64a/"/>
+      <tstamps>246660dd-ba42-42cd-92d3-f97009a87079</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="driver-output-B"/>
+      <property name="Sheetfile" value="driver-output.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/driver-output-B/" tstamps="/4142abc7-6bc3-44ba-a23f-cd1c885ba64a/"/>
+      <tstamps>df6d1381-35e3-48d1-840a-6e19a141cc82</tstamps>
+    </comp>
+    <comp ref="J15">
+      <value>Screw_Terminal_01x04</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-4-3.5-H_1x04_P3.50mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x04" description="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="driver-output-B"/>
+      <property name="Sheetfile" value="driver-output.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/driver-output-B/" tstamps="/4142abc7-6bc3-44ba-a23f-cd1c885ba64a/"/>
+      <tstamps>2d32afce-9f1a-41a2-9452-2a22ff576e4b</tstamps>
+    </comp>
+    <comp ref="U11">
+      <value>π120U30</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.rpsemi.com/public/doc/2Pai_%CF%8012xUxx_20200416_EN.pdf</datasheet>
+      <libsource lib="Isolator" part="π120U30" description="Dual-channel digital isolator, 3V/5V level translation, Safe LOW, SOIC-8"/>
+      <property name="Sheetname" value="driver-output-B"/>
+      <property name="Sheetfile" value="driver-output.kicad_sch"/>
+      <property name="ki_description" value="Dual-channel digital isolator, 3V/5V level translation, Safe LOW, SOIC-8"/>
+      <property name="ki_keywords" value="Dual-channel digital isolator pi120U30"/>
+      <sheetpath names="/driver-output-B/" tstamps="/4142abc7-6bc3-44ba-a23f-cd1c885ba64a/"/>
+      <tstamps>97f4235c-892a-4e51-9581-535a86df0fde</tstamps>
+    </comp>
+    <comp ref="U12">
+      <value>74LVC2G34</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6_Handsoldering</footprint>
+      <datasheet>http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf</datasheet>
+      <libsource lib="74xGxx" part="74LVC2G34" description="Dual Buffer, Low-Voltage CMOS"/>
+      <property name="Sheetname" value="driver-output-B"/>
+      <property name="Sheetfile" value="driver-output.kicad_sch"/>
+      <property name="ki_description" value="Dual Buffer, Low-Voltage CMOS"/>
+      <property name="ki_keywords" value="Dual Buffer LVC CMOS"/>
+      <sheetpath names="/driver-output-B/" tstamps="/4142abc7-6bc3-44ba-a23f-cd1c885ba64a/"/>
+      <tstamps>d8c172bc-d6b3-4d31-ae5a-6fef95722f12 da403108-25a3-48c9-aaaf-64497d798909 2050d4bf-b60c-4fb5-8c7e-13de486c350a</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="input1"/>
+      <property name="Sheetfile" value="input.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/input1/" tstamps="/f01c58f2-0a2a-4031-a1ff-2bcfde020bbc/"/>
+      <tstamps>380190dd-2a28-4869-8d60-ed9822c3f3de</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="input1"/>
+      <property name="Sheetfile" value="input.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/input1/" tstamps="/f01c58f2-0a2a-4031-a1ff-2bcfde020bbc/"/>
+      <tstamps>75e42691-9455-42fd-90c8-ea1b18ff1e8c</tstamps>
+    </comp>
+    <comp ref="J16">
+      <value>Screw_Terminal_01x03</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-3-3.5-H_1x03_P3.50mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="input1"/>
+      <property name="Sheetfile" value="input.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/input1/" tstamps="/f01c58f2-0a2a-4031-a1ff-2bcfde020bbc/"/>
+      <tstamps>5438ff92-2058-4409-8b62-9bd4b6140089</tstamps>
+    </comp>
+    <comp ref="J17">
+      <value>Screw_Terminal_01x03</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-3-3.5-H_1x03_P3.50mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="input1"/>
+      <property name="Sheetfile" value="input.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/input1/" tstamps="/f01c58f2-0a2a-4031-a1ff-2bcfde020bbc/"/>
+      <tstamps>9a381672-1563-4975-b542-dd981373a95b</tstamps>
+    </comp>
+    <comp ref="U13">
+      <value>π120U30</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.rpsemi.com/public/doc/2Pai_%CF%8012xUxx_20200416_EN.pdf</datasheet>
+      <libsource lib="Isolator" part="π120U30" description="Dual-channel digital isolator, 3V/5V level translation, Safe LOW, SOIC-8"/>
+      <property name="Sheetname" value="input1"/>
+      <property name="Sheetfile" value="input.kicad_sch"/>
+      <property name="ki_description" value="Dual-channel digital isolator, 3V/5V level translation, Safe LOW, SOIC-8"/>
+      <property name="ki_keywords" value="Dual-channel digital isolator pi120U30"/>
+      <sheetpath names="/input1/" tstamps="/f01c58f2-0a2a-4031-a1ff-2bcfde020bbc/"/>
+      <tstamps>bcba3209-5427-4c21-8bb5-cea2ac79a456</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="input2"/>
+      <property name="Sheetfile" value="input.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/input2/" tstamps="/3fc173af-f308-4a39-8856-0a5c1db8a138/"/>
+      <tstamps>380190dd-2a28-4869-8d60-ed9822c3f3de</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="input2"/>
+      <property name="Sheetfile" value="input.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/input2/" tstamps="/3fc173af-f308-4a39-8856-0a5c1db8a138/"/>
+      <tstamps>75e42691-9455-42fd-90c8-ea1b18ff1e8c</tstamps>
+    </comp>
+    <comp ref="J18">
+      <value>Screw_Terminal_01x03</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-3-3.5-H_1x03_P3.50mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="input2"/>
+      <property name="Sheetfile" value="input.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/input2/" tstamps="/3fc173af-f308-4a39-8856-0a5c1db8a138/"/>
+      <tstamps>5438ff92-2058-4409-8b62-9bd4b6140089</tstamps>
+    </comp>
+    <comp ref="J19">
+      <value>Screw_Terminal_01x03</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-3-3.5-H_1x03_P3.50mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="input2"/>
+      <property name="Sheetfile" value="input.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/input2/" tstamps="/3fc173af-f308-4a39-8856-0a5c1db8a138/"/>
+      <tstamps>9a381672-1563-4975-b542-dd981373a95b</tstamps>
+    </comp>
+    <comp ref="U14">
+      <value>π120U30</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.rpsemi.com/public/doc/2Pai_%CF%8012xUxx_20200416_EN.pdf</datasheet>
+      <libsource lib="Isolator" part="π120U30" description="Dual-channel digital isolator, 3V/5V level translation, Safe LOW, SOIC-8"/>
+      <property name="Sheetname" value="input2"/>
+      <property name="Sheetfile" value="input.kicad_sch"/>
+      <property name="ki_description" value="Dual-channel digital isolator, 3V/5V level translation, Safe LOW, SOIC-8"/>
+      <property name="ki_keywords" value="Dual-channel digital isolator pi120U30"/>
+      <sheetpath names="/input2/" tstamps="/3fc173af-f308-4a39-8856-0a5c1db8a138/"/>
+      <tstamps>bcba3209-5427-4c21-8bb5-cea2ac79a456</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="input3"/>
+      <property name="Sheetfile" value="input.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/input3/" tstamps="/e3d54af7-3f2d-465d-87f6-98351b51b2a5/"/>
+      <tstamps>380190dd-2a28-4869-8d60-ed9822c3f3de</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="input3"/>
+      <property name="Sheetfile" value="input.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/input3/" tstamps="/e3d54af7-3f2d-465d-87f6-98351b51b2a5/"/>
+      <tstamps>75e42691-9455-42fd-90c8-ea1b18ff1e8c</tstamps>
+    </comp>
+    <comp ref="J20">
+      <value>Screw_Terminal_01x03</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-3-3.5-H_1x03_P3.50mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="input3"/>
+      <property name="Sheetfile" value="input.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/input3/" tstamps="/e3d54af7-3f2d-465d-87f6-98351b51b2a5/"/>
+      <tstamps>5438ff92-2058-4409-8b62-9bd4b6140089</tstamps>
+    </comp>
+    <comp ref="J21">
+      <value>Screw_Terminal_01x03</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-3-3.5-H_1x03_P3.50mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="input3"/>
+      <property name="Sheetfile" value="input.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/input3/" tstamps="/e3d54af7-3f2d-465d-87f6-98351b51b2a5/"/>
+      <tstamps>9a381672-1563-4975-b542-dd981373a95b</tstamps>
+    </comp>
+    <comp ref="U15">
+      <value>π120U30</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.rpsemi.com/public/doc/2Pai_%CF%8012xUxx_20200416_EN.pdf</datasheet>
+      <libsource lib="Isolator" part="π120U30" description="Dual-channel digital isolator, 3V/5V level translation, Safe LOW, SOIC-8"/>
+      <property name="Sheetname" value="input3"/>
+      <property name="Sheetfile" value="input.kicad_sch"/>
+      <property name="ki_description" value="Dual-channel digital isolator, 3V/5V level translation, Safe LOW, SOIC-8"/>
+      <property name="ki_keywords" value="Dual-channel digital isolator pi120U30"/>
+      <sheetpath names="/input3/" tstamps="/e3d54af7-3f2d-465d-87f6-98351b51b2a5/"/>
+      <tstamps>bcba3209-5427-4c21-8bb5-cea2ac79a456</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="input4"/>
+      <property name="Sheetfile" value="input.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/input4/" tstamps="/2b0bd622-e9f5-4156-9577-5cf66b3affa1/"/>
+      <tstamps>380190dd-2a28-4869-8d60-ed9822c3f3de</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="input4"/>
+      <property name="Sheetfile" value="input.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/input4/" tstamps="/2b0bd622-e9f5-4156-9577-5cf66b3affa1/"/>
+      <tstamps>75e42691-9455-42fd-90c8-ea1b18ff1e8c</tstamps>
+    </comp>
+    <comp ref="J22">
+      <value>Screw_Terminal_01x03</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-3-3.5-H_1x03_P3.50mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="input4"/>
+      <property name="Sheetfile" value="input.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/input4/" tstamps="/2b0bd622-e9f5-4156-9577-5cf66b3affa1/"/>
+      <tstamps>5438ff92-2058-4409-8b62-9bd4b6140089</tstamps>
+    </comp>
+    <comp ref="J23">
+      <value>Screw_Terminal_01x03</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-3-3.5-H_1x03_P3.50mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="input4"/>
+      <property name="Sheetfile" value="input.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/input4/" tstamps="/2b0bd622-e9f5-4156-9577-5cf66b3affa1/"/>
+      <tstamps>9a381672-1563-4975-b542-dd981373a95b</tstamps>
+    </comp>
+    <comp ref="U16">
+      <value>π120U30</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.rpsemi.com/public/doc/2Pai_%CF%8012xUxx_20200416_EN.pdf</datasheet>
+      <libsource lib="Isolator" part="π120U30" description="Dual-channel digital isolator, 3V/5V level translation, Safe LOW, SOIC-8"/>
+      <property name="Sheetname" value="input4"/>
+      <property name="Sheetfile" value="input.kicad_sch"/>
+      <property name="ki_description" value="Dual-channel digital isolator, 3V/5V level translation, Safe LOW, SOIC-8"/>
+      <property name="ki_keywords" value="Dual-channel digital isolator pi120U30"/>
+      <sheetpath names="/input4/" tstamps="/2b0bd622-e9f5-4156-9577-5cf66b3affa1/"/>
+      <tstamps>bcba3209-5427-4c21-8bb5-cea2ac79a456</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="input5"/>
+      <property name="Sheetfile" value="input.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/input5/" tstamps="/4344c07b-b469-4487-a974-79a803c4886d/"/>
+      <tstamps>380190dd-2a28-4869-8d60-ed9822c3f3de</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="input5"/>
+      <property name="Sheetfile" value="input.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/input5/" tstamps="/4344c07b-b469-4487-a974-79a803c4886d/"/>
+      <tstamps>75e42691-9455-42fd-90c8-ea1b18ff1e8c</tstamps>
+    </comp>
+    <comp ref="J24">
+      <value>Screw_Terminal_01x03</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-3-3.5-H_1x03_P3.50mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="input5"/>
+      <property name="Sheetfile" value="input.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/input5/" tstamps="/4344c07b-b469-4487-a974-79a803c4886d/"/>
+      <tstamps>5438ff92-2058-4409-8b62-9bd4b6140089</tstamps>
+    </comp>
+    <comp ref="J25">
+      <value>Screw_Terminal_01x03</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-3-3.5-H_1x03_P3.50mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="input5"/>
+      <property name="Sheetfile" value="input.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/input5/" tstamps="/4344c07b-b469-4487-a974-79a803c4886d/"/>
+      <tstamps>9a381672-1563-4975-b542-dd981373a95b</tstamps>
+    </comp>
+    <comp ref="U17">
+      <value>π120U30</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.rpsemi.com/public/doc/2Pai_%CF%8012xUxx_20200416_EN.pdf</datasheet>
+      <libsource lib="Isolator" part="π120U30" description="Dual-channel digital isolator, 3V/5V level translation, Safe LOW, SOIC-8"/>
+      <property name="Sheetname" value="input5"/>
+      <property name="Sheetfile" value="input.kicad_sch"/>
+      <property name="ki_description" value="Dual-channel digital isolator, 3V/5V level translation, Safe LOW, SOIC-8"/>
+      <property name="ki_keywords" value="Dual-channel digital isolator pi120U30"/>
+      <sheetpath names="/input5/" tstamps="/4344c07b-b469-4487-a974-79a803c4886d/"/>
+      <tstamps>bcba3209-5427-4c21-8bb5-cea2ac79a456</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="output1"/>
+      <property name="Sheetfile" value="output.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/output1/" tstamps="/39839922-4507-4432-8651-7daf93aa5ae1/"/>
+      <tstamps>def8f098-7b17-475e-a347-5c2e22c6576c</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="output1"/>
+      <property name="Sheetfile" value="output.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/output1/" tstamps="/39839922-4507-4432-8651-7daf93aa5ae1/"/>
+      <tstamps>3d036521-4f56-4353-b781-fd31563e9108</tstamps>
+    </comp>
+    <comp ref="J26">
+      <value>Screw_Terminal_01x03</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-3-3.5-H_1x03_P3.50mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="output1"/>
+      <property name="Sheetfile" value="output.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/output1/" tstamps="/39839922-4507-4432-8651-7daf93aa5ae1/"/>
+      <tstamps>9cb25507-9059-4cd7-b8bf-656658c52033</tstamps>
+    </comp>
+    <comp ref="J27">
+      <value>Screw_Terminal_01x03</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-3-3.5-H_1x03_P3.50mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="output1"/>
+      <property name="Sheetfile" value="output.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/output1/" tstamps="/39839922-4507-4432-8651-7daf93aa5ae1/"/>
+      <tstamps>b1ce5fd9-fa97-4a3d-93b1-535038d62958</tstamps>
+    </comp>
+    <comp ref="U18">
+      <value>π120U30</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.rpsemi.com/public/doc/2Pai_%CF%8012xUxx_20200416_EN.pdf</datasheet>
+      <libsource lib="Isolator" part="π120U30" description="Dual-channel digital isolator, 3V/5V level translation, Safe LOW, SOIC-8"/>
+      <property name="Sheetname" value="output1"/>
+      <property name="Sheetfile" value="output.kicad_sch"/>
+      <property name="ki_description" value="Dual-channel digital isolator, 3V/5V level translation, Safe LOW, SOIC-8"/>
+      <property name="ki_keywords" value="Dual-channel digital isolator pi120U30"/>
+      <sheetpath names="/output1/" tstamps="/39839922-4507-4432-8651-7daf93aa5ae1/"/>
+      <tstamps>6c0a72b6-a565-4a49-bee9-4fefc2ab561a</tstamps>
+    </comp>
+    <comp ref="U19">
+      <value>74LVC2G34</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6_Handsoldering</footprint>
+      <datasheet>http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf</datasheet>
+      <libsource lib="74xGxx" part="74LVC2G34" description="Dual Buffer, Low-Voltage CMOS"/>
+      <property name="Sheetname" value="output1"/>
+      <property name="Sheetfile" value="output.kicad_sch"/>
+      <property name="ki_description" value="Dual Buffer, Low-Voltage CMOS"/>
+      <property name="ki_keywords" value="Dual Buffer LVC CMOS"/>
+      <sheetpath names="/output1/" tstamps="/39839922-4507-4432-8651-7daf93aa5ae1/"/>
+      <tstamps>c8449bbd-e757-4683-a539-9d590ceab8fa 68903bda-125f-4c4b-8139-a68edb1fdaec 1a509d20-bc1f-46e8-9bd8-746193996863</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="output2"/>
+      <property name="Sheetfile" value="output.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/output2/" tstamps="/033b43b6-887a-4cd1-b124-9d3fc238a50a/"/>
+      <tstamps>def8f098-7b17-475e-a347-5c2e22c6576c</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="output2"/>
+      <property name="Sheetfile" value="output.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/output2/" tstamps="/033b43b6-887a-4cd1-b124-9d3fc238a50a/"/>
+      <tstamps>3d036521-4f56-4353-b781-fd31563e9108</tstamps>
+    </comp>
+    <comp ref="J28">
+      <value>Screw_Terminal_01x03</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-3-3.5-H_1x03_P3.50mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="output2"/>
+      <property name="Sheetfile" value="output.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/output2/" tstamps="/033b43b6-887a-4cd1-b124-9d3fc238a50a/"/>
+      <tstamps>9cb25507-9059-4cd7-b8bf-656658c52033</tstamps>
+    </comp>
+    <comp ref="J29">
+      <value>Screw_Terminal_01x03</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-3-3.5-H_1x03_P3.50mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="output2"/>
+      <property name="Sheetfile" value="output.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/output2/" tstamps="/033b43b6-887a-4cd1-b124-9d3fc238a50a/"/>
+      <tstamps>b1ce5fd9-fa97-4a3d-93b1-535038d62958</tstamps>
+    </comp>
+    <comp ref="U20">
+      <value>π120U30</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.rpsemi.com/public/doc/2Pai_%CF%8012xUxx_20200416_EN.pdf</datasheet>
+      <libsource lib="Isolator" part="π120U30" description="Dual-channel digital isolator, 3V/5V level translation, Safe LOW, SOIC-8"/>
+      <property name="Sheetname" value="output2"/>
+      <property name="Sheetfile" value="output.kicad_sch"/>
+      <property name="ki_description" value="Dual-channel digital isolator, 3V/5V level translation, Safe LOW, SOIC-8"/>
+      <property name="ki_keywords" value="Dual-channel digital isolator pi120U30"/>
+      <sheetpath names="/output2/" tstamps="/033b43b6-887a-4cd1-b124-9d3fc238a50a/"/>
+      <tstamps>6c0a72b6-a565-4a49-bee9-4fefc2ab561a</tstamps>
+    </comp>
+    <comp ref="U21">
+      <value>74LVC2G34</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6_Handsoldering</footprint>
+      <datasheet>http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf</datasheet>
+      <libsource lib="74xGxx" part="74LVC2G34" description="Dual Buffer, Low-Voltage CMOS"/>
+      <property name="Sheetname" value="output2"/>
+      <property name="Sheetfile" value="output.kicad_sch"/>
+      <property name="ki_description" value="Dual Buffer, Low-Voltage CMOS"/>
+      <property name="ki_keywords" value="Dual Buffer LVC CMOS"/>
+      <sheetpath names="/output2/" tstamps="/033b43b6-887a-4cd1-b124-9d3fc238a50a/"/>
+      <tstamps>c8449bbd-e757-4683-a539-9d590ceab8fa 68903bda-125f-4c4b-8139-a68edb1fdaec 1a509d20-bc1f-46e8-9bd8-746193996863</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="output3"/>
+      <property name="Sheetfile" value="output.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/output3/" tstamps="/5fcddbba-6542-419d-81f4-23a5de126d8f/"/>
+      <tstamps>def8f098-7b17-475e-a347-5c2e22c6576c</tstamps>
+    </comp>
+    <comp ref="C26">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="output3"/>
+      <property name="Sheetfile" value="output.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/output3/" tstamps="/5fcddbba-6542-419d-81f4-23a5de126d8f/"/>
+      <tstamps>3d036521-4f56-4353-b781-fd31563e9108</tstamps>
+    </comp>
+    <comp ref="J30">
+      <value>Screw_Terminal_01x03</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-3-3.5-H_1x03_P3.50mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="output3"/>
+      <property name="Sheetfile" value="output.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/output3/" tstamps="/5fcddbba-6542-419d-81f4-23a5de126d8f/"/>
+      <tstamps>9cb25507-9059-4cd7-b8bf-656658c52033</tstamps>
+    </comp>
+    <comp ref="J31">
+      <value>Screw_Terminal_01x03</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-3-3.5-H_1x03_P3.50mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="output3"/>
+      <property name="Sheetfile" value="output.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/output3/" tstamps="/5fcddbba-6542-419d-81f4-23a5de126d8f/"/>
+      <tstamps>b1ce5fd9-fa97-4a3d-93b1-535038d62958</tstamps>
+    </comp>
+    <comp ref="U22">
+      <value>π120U30</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.rpsemi.com/public/doc/2Pai_%CF%8012xUxx_20200416_EN.pdf</datasheet>
+      <libsource lib="Isolator" part="π120U30" description="Dual-channel digital isolator, 3V/5V level translation, Safe LOW, SOIC-8"/>
+      <property name="Sheetname" value="output3"/>
+      <property name="Sheetfile" value="output.kicad_sch"/>
+      <property name="ki_description" value="Dual-channel digital isolator, 3V/5V level translation, Safe LOW, SOIC-8"/>
+      <property name="ki_keywords" value="Dual-channel digital isolator pi120U30"/>
+      <sheetpath names="/output3/" tstamps="/5fcddbba-6542-419d-81f4-23a5de126d8f/"/>
+      <tstamps>6c0a72b6-a565-4a49-bee9-4fefc2ab561a</tstamps>
+    </comp>
+    <comp ref="U23">
+      <value>74LVC2G34</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6_Handsoldering</footprint>
+      <datasheet>http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf</datasheet>
+      <libsource lib="74xGxx" part="74LVC2G34" description="Dual Buffer, Low-Voltage CMOS"/>
+      <property name="Sheetname" value="output3"/>
+      <property name="Sheetfile" value="output.kicad_sch"/>
+      <property name="ki_description" value="Dual Buffer, Low-Voltage CMOS"/>
+      <property name="ki_keywords" value="Dual Buffer LVC CMOS"/>
+      <sheetpath names="/output3/" tstamps="/5fcddbba-6542-419d-81f4-23a5de126d8f/"/>
+      <tstamps>c8449bbd-e757-4683-a539-9d590ceab8fa 68903bda-125f-4c4b-8139-a68edb1fdaec 1a509d20-bc1f-46e8-9bd8-746193996863</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="74xGxx" part="74LVC2G34">
+      <description>Dual Buffer, Low-Voltage CMOS</description>
+      <docs>http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf</docs>
+      <footprints>
+        <fp>SG-*</fp>
+        <fp>SOT*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74LVC2G34</field>
+        <field name="Datasheet">http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="" type="input"/>
+        <pin num="4" name="" type="output"/>
+        <pin num="5" name="VCC" type="power_in"/>
+        <pin num="6" name="" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x02_Pin">
+      <description>Generic connector, single row, 01x02, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Raspberry_Pi_2_3">
+      <description>expansion header for Raspberry Pi 2 &amp; 3</description>
+      <docs>https://www.raspberrypi.org/documentation/hardware/raspberrypi/schematics/rpi_SCH_3bplus_1p0_reduced.pdf</docs>
+      <footprints>
+        <fp>PinHeader*2x20*P2.54mm*Vertical*</fp>
+        <fp>PinSocket*2x20*P2.54mm*Vertical*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J1</field>
+        <field name="Value">Raspberry_Pi</field>
+        <field name="Footprint">RPI:raspberrypi</field>
+        <field name="Datasheet">https://www.raspberrypi.org/documentation/hardware/raspberrypi/schematics/rpi_SCH_3bplus_1p0_reduced.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="3V3" type="power_out"/>
+        <pin num="2" name="5V" type="power_in"/>
+        <pin num="3" name="SDA/GPIO2" type="bidirectional"/>
+        <pin num="4" name="5V" type="passive"/>
+        <pin num="5" name="SCL/GPIO3" type="bidirectional"/>
+        <pin num="6" name="GND" type="power_in"/>
+        <pin num="7" name="GCLK0/GPIO4" type="bidirectional"/>
+        <pin num="8" name="GPIO14/TXD" type="bidirectional"/>
+        <pin num="9" name="GND" type="passive"/>
+        <pin num="10" name="GPIO15/RXD" type="bidirectional"/>
+        <pin num="11" name="GPIO17" type="bidirectional"/>
+        <pin num="12" name="GPIO18/PWM0" type="bidirectional"/>
+        <pin num="13" name="GPIO27" type="bidirectional"/>
+        <pin num="14" name="GND" type="passive"/>
+        <pin num="15" name="GPIO22" type="bidirectional"/>
+        <pin num="16" name="GPIO23" type="bidirectional"/>
+        <pin num="17" name="3V3" type="passive"/>
+        <pin num="18" name="GPIO24" type="bidirectional"/>
+        <pin num="19" name="MOSI0/GPIO10" type="bidirectional"/>
+        <pin num="20" name="GND" type="passive"/>
+        <pin num="21" name="MISO0/GPIO9" type="bidirectional"/>
+        <pin num="22" name="GPIO25" type="bidirectional"/>
+        <pin num="23" name="SCLK0/GPIO11" type="bidirectional"/>
+        <pin num="24" name="~{CE0}/GPIO8" type="bidirectional"/>
+        <pin num="25" name="GND" type="passive"/>
+        <pin num="26" name="~{CE1}/GPIO7" type="bidirectional"/>
+        <pin num="27" name="ID_SD/GPIO0" type="no_connect"/>
+        <pin num="28" name="ID_SC/GPIO1" type="no_connect"/>
+        <pin num="29" name="GCLK1/GPIO5" type="bidirectional"/>
+        <pin num="30" name="GND" type="passive"/>
+        <pin num="31" name="GCLK2/GPIO6" type="bidirectional"/>
+        <pin num="32" name="PWM0/GPIO12" type="bidirectional"/>
+        <pin num="33" name="PWM1/GPIO13" type="bidirectional"/>
+        <pin num="34" name="GND" type="passive"/>
+        <pin num="35" name="GPIO19/MISO1" type="bidirectional"/>
+        <pin num="36" name="GPIO16" type="bidirectional"/>
+        <pin num="37" name="GPIO26" type="bidirectional"/>
+        <pin num="38" name="GPIO20/MOSI1" type="bidirectional"/>
+        <pin num="39" name="GND" type="passive"/>
+        <pin num="40" name="GPIO21/SCLK1" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x02">
+      <description>Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x03">
+      <description>Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x03</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x04">
+      <description>Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED_Small_Filled">
+      <description>Light emitting diode, small symbol, filled shape</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED_Small_Filled</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Polyfuse_Small">
+      <description>Resettable fuse, polymeric positive temperature coefficient, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*polyfuse*</fp>
+        <fp>*PTC*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Polyfuse_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Isolator" part="π120U30">
+      <description>Dual-channel digital isolator, 3V/5V level translation, Safe LOW, SOIC-8</description>
+      <docs>http://www.rpsemi.com/public/doc/2Pai_%CF%8012xUxx_20200416_EN.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">π120U30</field>
+        <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet">http://www.rpsemi.com/public/doc/2Pai_%CF%8012xUxx_20200416_EN.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD1" type="power_in"/>
+        <pin num="2" name="VIA" type="input"/>
+        <pin num="3" name="VIB" type="input"/>
+        <pin num="4" name="GND1" type="power_in"/>
+        <pin num="5" name="GND2" type="power_in"/>
+        <pin num="6" name="VOB" type="output"/>
+        <pin num="7" name="VOA" type="output"/>
+        <pin num="8" name="VDD2" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Switching" part="TSR_1-2433">
+      <description>1A step-down regulator module, fixed 3.3V output voltage, 5-36V input voltage, -40°C to +85°C temperature range, TO-220 compatible LM78xx replacement</description>
+      <docs>http://www.tracopower.com/products/tsr1.pdf</docs>
+      <footprints>
+        <fp>Converter*DCDC*TRACO*TSR?1*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TSR_1-2433</field>
+        <field name="Footprint">Converter_DCDC:Converter_DCDC_TRACO_TSR-1_THT</field>
+        <field name="Datasheet">http://www.tracopower.com/products/tsr1.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Vin" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="Vout" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Switching" part="TSR_1-2450">
+      <description>1A step-down regulator module, fixed 5V output voltage, 5-36V input voltage, -40°C to +85°C temperature range, TO-220 compatible LM78xx replacement</description>
+      <docs>http://www.tracopower.com/products/tsr1.pdf</docs>
+      <footprints>
+        <fp>Converter*DCDC*TRACO*TSR?1*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TSR_1-2450</field>
+        <field name="Footprint">Converter_DCDC:Converter_DCDC_TRACO_TSR-1_THT</field>
+        <field name="Datasheet">http://www.tracopower.com/products/tsr1.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Vin" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="Vout" type="power_out"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="74xGxx">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/74xGxx.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Isolator">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Isolator.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Switching">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Regulator_Switching.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/DIRA">
+      <node ref="J1" pin="15" pinfunction="GPIO22" pintype="bidirectional"/>
+      <node ref="U9" pin="3" pinfunction="VIB" pintype="input"/>
+    </net>
+    <net code="2" name="/DIRB">
+      <node ref="J1" pin="7" pinfunction="GCLK0/GPIO4" pintype="bidirectional"/>
+      <node ref="U11" pin="3" pinfunction="VIB" pintype="input"/>
+    </net>
+    <net code="3" name="/DIRX">
+      <node ref="J1" pin="37" pinfunction="GPIO26" pintype="bidirectional"/>
+      <node ref="U3" pin="3" pinfunction="VIB" pintype="input"/>
+    </net>
+    <net code="4" name="/DIRY">
+      <node ref="J1" pin="35" pinfunction="GPIO19/MISO1" pintype="bidirectional"/>
+      <node ref="U5" pin="3" pinfunction="VIB" pintype="input"/>
+    </net>
+    <net code="5" name="/DIRZ">
+      <node ref="J1" pin="29" pinfunction="GCLK1/GPIO5" pintype="bidirectional"/>
+      <node ref="U7" pin="3" pinfunction="VIB" pintype="input"/>
+    </net>
+    <net code="6" name="/IN1">
+      <node ref="J1" pin="3" pinfunction="SDA/GPIO2" pintype="bidirectional"/>
+      <node ref="U13" pin="7" pinfunction="VOA" pintype="output"/>
+    </net>
+    <net code="7" name="/IN2">
+      <node ref="J1" pin="5" pinfunction="SCL/GPIO3" pintype="bidirectional"/>
+      <node ref="U13" pin="6" pinfunction="VOB" pintype="output"/>
+    </net>
+    <net code="8" name="/IN3">
+      <node ref="J1" pin="10" pinfunction="GPIO15/RXD" pintype="bidirectional"/>
+      <node ref="U14" pin="7" pinfunction="VOA" pintype="output"/>
+    </net>
+    <net code="9" name="/IN4">
+      <node ref="J1" pin="12" pinfunction="GPIO18/PWM0" pintype="bidirectional"/>
+      <node ref="U14" pin="6" pinfunction="VOB" pintype="output"/>
+    </net>
+    <net code="10" name="/IN5">
+      <node ref="J1" pin="11" pinfunction="GPIO17" pintype="bidirectional"/>
+      <node ref="U15" pin="7" pinfunction="VOA" pintype="output"/>
+    </net>
+    <net code="11" name="/IN6">
+      <node ref="J1" pin="13" pinfunction="GPIO27" pintype="bidirectional"/>
+      <node ref="U15" pin="6" pinfunction="VOB" pintype="output"/>
+    </net>
+    <net code="12" name="/IN7">
+      <node ref="J1" pin="18" pinfunction="GPIO24" pintype="bidirectional"/>
+      <node ref="U16" pin="7" pinfunction="VOA" pintype="output"/>
+    </net>
+    <net code="13" name="/IN8">
+      <node ref="J1" pin="19" pinfunction="MOSI0/GPIO10" pintype="bidirectional"/>
+      <node ref="U16" pin="6" pinfunction="VOB" pintype="output"/>
+    </net>
+    <net code="14" name="/IN9">
+      <node ref="J1" pin="22" pinfunction="GPIO25" pintype="bidirectional"/>
+      <node ref="U17" pin="7" pinfunction="VOA" pintype="output"/>
+    </net>
+    <net code="15" name="/IN10">
+      <node ref="J1" pin="21" pinfunction="MISO0/GPIO9" pintype="bidirectional"/>
+      <node ref="U17" pin="6" pinfunction="VOB" pintype="output"/>
+    </net>
+    <net code="16" name="/OUT1">
+      <node ref="J1" pin="23" pinfunction="SCLK0/GPIO11" pintype="bidirectional"/>
+      <node ref="U18" pin="2" pinfunction="VIA" pintype="input"/>
+    </net>
+    <net code="17" name="/OUT2">
+      <node ref="J1" pin="24" pinfunction="~{CE0}/GPIO8" pintype="bidirectional"/>
+      <node ref="U18" pin="3" pinfunction="VIB" pintype="input"/>
+    </net>
+    <net code="18" name="/OUT3">
+      <node ref="J1" pin="31" pinfunction="GCLK2/GPIO6" pintype="bidirectional"/>
+      <node ref="U20" pin="2" pinfunction="VIA" pintype="input"/>
+    </net>
+    <net code="19" name="/OUT4">
+      <node ref="J1" pin="32" pinfunction="PWM0/GPIO12" pintype="bidirectional"/>
+      <node ref="U20" pin="3" pinfunction="VIB" pintype="input"/>
+    </net>
+    <net code="20" name="/OUT5">
+      <node ref="J1" pin="40" pinfunction="GPIO21/SCLK1" pintype="bidirectional"/>
+      <node ref="U22" pin="2" pinfunction="VIA" pintype="input"/>
+    </net>
+    <net code="21" name="/OUT6">
+      <node ref="J1" pin="38" pinfunction="GPIO20/MOSI1" pintype="bidirectional"/>
+      <node ref="U22" pin="3" pinfunction="VIB" pintype="input"/>
+    </net>
+    <net code="22" name="/STPA">
+      <node ref="J1" pin="16" pinfunction="GPIO23" pintype="bidirectional"/>
+      <node ref="U9" pin="2" pinfunction="VIA" pintype="input"/>
+    </net>
+    <net code="23" name="/STPB">
+      <node ref="J1" pin="8" pinfunction="GPIO14/TXD" pintype="bidirectional"/>
+      <node ref="U11" pin="2" pinfunction="VIA" pintype="input"/>
+    </net>
+    <net code="24" name="/STPX">
+      <node ref="J1" pin="36" pinfunction="GPIO16" pintype="bidirectional"/>
+      <node ref="U3" pin="2" pinfunction="VIA" pintype="input"/>
+    </net>
+    <net code="25" name="/STPY">
+      <node ref="J1" pin="33" pinfunction="PWM1/GPIO13" pintype="bidirectional"/>
+      <node ref="U5" pin="2" pinfunction="VIA" pintype="input"/>
+    </net>
+    <net code="26" name="/STPZ">
+      <node ref="J1" pin="26" pinfunction="~{CE1}/GPIO7" pintype="bidirectional"/>
+      <node ref="U7" pin="2" pinfunction="VIA" pintype="input"/>
+    </net>
+    <net code="27" name="/driver-output-A/DIR_DRV">
+      <node ref="U10" pin="3" pintype="input"/>
+      <node ref="U9" pin="6" pinfunction="VOB" pintype="output"/>
+    </net>
+    <net code="28" name="/driver-output-A/STP_DRV">
+      <node ref="U10" pin="1" pintype="input"/>
+      <node ref="U9" pin="7" pinfunction="VOA" pintype="output"/>
+    </net>
+    <net code="29" name="/driver-output-B/DIR_DRV">
+      <node ref="U11" pin="6" pinfunction="VOB" pintype="output"/>
+      <node ref="U12" pin="3" pintype="input"/>
+    </net>
+    <net code="30" name="/driver-output-B/STP_DRV">
+      <node ref="U11" pin="7" pinfunction="VOA" pintype="output"/>
+      <node ref="U12" pin="1" pintype="input"/>
+    </net>
+    <net code="31" name="/driver-output-X/DIR_DRV">
+      <node ref="U3" pin="6" pinfunction="VOB" pintype="output"/>
+      <node ref="U4" pin="3" pintype="input"/>
+    </net>
+    <net code="32" name="/driver-output-X/STP_DRV">
+      <node ref="U3" pin="7" pinfunction="VOA" pintype="output"/>
+      <node ref="U4" pin="1" pintype="input"/>
+    </net>
+    <net code="33" name="/driver-output-Y/DIR_DRV">
+      <node ref="U5" pin="6" pinfunction="VOB" pintype="output"/>
+      <node ref="U6" pin="3" pintype="input"/>
+    </net>
+    <net code="34" name="/driver-output-Y/STP_DRV">
+      <node ref="U5" pin="7" pinfunction="VOA" pintype="output"/>
+      <node ref="U6" pin="1" pintype="input"/>
+    </net>
+    <net code="35" name="/driver-output-Z/DIR_DRV">
+      <node ref="U7" pin="6" pinfunction="VOB" pintype="output"/>
+      <node ref="U8" pin="3" pintype="input"/>
+    </net>
+    <net code="36" name="/driver-output-Z/STP_DRV">
+      <node ref="U7" pin="7" pinfunction="VOA" pintype="output"/>
+      <node ref="U8" pin="1" pintype="input"/>
+    </net>
+    <net code="37" name="/input1/INA_ISO">
+      <node ref="J16" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U13" pin="2" pinfunction="VIA" pintype="input"/>
+    </net>
+    <net code="38" name="/input1/INB_ISO">
+      <node ref="J17" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U13" pin="3" pinfunction="VIB" pintype="input"/>
+    </net>
+    <net code="39" name="/input2/INA_ISO">
+      <node ref="J18" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U14" pin="2" pinfunction="VIA" pintype="input"/>
+    </net>
+    <net code="40" name="/input2/INB_ISO">
+      <node ref="J19" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U14" pin="3" pinfunction="VIB" pintype="input"/>
+    </net>
+    <net code="41" name="/input3/INA_ISO">
+      <node ref="J20" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U15" pin="2" pinfunction="VIA" pintype="input"/>
+    </net>
+    <net code="42" name="/input3/INB_ISO">
+      <node ref="J21" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U15" pin="3" pinfunction="VIB" pintype="input"/>
+    </net>
+    <net code="43" name="/input4/INA_ISO">
+      <node ref="J22" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U16" pin="2" pinfunction="VIA" pintype="input"/>
+    </net>
+    <net code="44" name="/input4/INB_ISO">
+      <node ref="J23" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U16" pin="3" pinfunction="VIB" pintype="input"/>
+    </net>
+    <net code="45" name="/input5/INA_ISO">
+      <node ref="J24" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U17" pin="2" pinfunction="VIA" pintype="input"/>
+    </net>
+    <net code="46" name="/input5/INB_ISO">
+      <node ref="J25" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U17" pin="3" pinfunction="VIB" pintype="input"/>
+    </net>
+    <net code="47" name="/output1/OUTA_ISO">
+      <node ref="U18" pin="7" pinfunction="VOA" pintype="output"/>
+      <node ref="U19" pin="1" pintype="input"/>
+    </net>
+    <net code="48" name="/output1/OUTB_ISO">
+      <node ref="U18" pin="6" pinfunction="VOB" pintype="output"/>
+      <node ref="U19" pin="3" pintype="input"/>
+    </net>
+    <net code="49" name="/output2/OUTA_ISO">
+      <node ref="U20" pin="7" pinfunction="VOA" pintype="output"/>
+      <node ref="U21" pin="1" pintype="input"/>
+    </net>
+    <net code="50" name="/output2/OUTB_ISO">
+      <node ref="U20" pin="6" pinfunction="VOB" pintype="output"/>
+      <node ref="U21" pin="3" pintype="input"/>
+    </net>
+    <net code="51" name="/output3/OUTA_ISO">
+      <node ref="U22" pin="7" pinfunction="VOA" pintype="output"/>
+      <node ref="U23" pin="1" pintype="input"/>
+    </net>
+    <net code="52" name="/output3/OUTB_ISO">
+      <node ref="U22" pin="6" pinfunction="VOB" pintype="output"/>
+      <node ref="U23" pin="3" pintype="input"/>
+    </net>
+    <net code="53" name="3V3_ISO">
+      <node ref="F2" pin="2" pintype="passive"/>
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="54" name="3V3_PI">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="3V3" pintype="power_out"/>
+      <node ref="J1" pin="17" pinfunction="3V3" pintype="passive"/>
+      <node ref="U11" pin="1" pinfunction="VDD1" pintype="power_in"/>
+      <node ref="U13" pin="8" pinfunction="VDD2" pintype="power_in"/>
+      <node ref="U14" pin="8" pinfunction="VDD2" pintype="power_in"/>
+      <node ref="U15" pin="8" pinfunction="VDD2" pintype="power_in"/>
+      <node ref="U16" pin="8" pinfunction="VDD2" pintype="power_in"/>
+      <node ref="U17" pin="8" pinfunction="VDD2" pintype="power_in"/>
+      <node ref="U18" pin="1" pinfunction="VDD1" pintype="power_in"/>
+      <node ref="U20" pin="1" pinfunction="VDD1" pintype="power_in"/>
+      <node ref="U22" pin="1" pinfunction="VDD1" pintype="power_in"/>
+      <node ref="U3" pin="1" pinfunction="VDD1" pintype="power_in"/>
+      <node ref="U5" pin="1" pinfunction="VDD1" pintype="power_in"/>
+      <node ref="U7" pin="1" pinfunction="VDD1" pintype="power_in"/>
+      <node ref="U9" pin="1" pinfunction="VDD1" pintype="power_in"/>
+    </net>
+    <net code="55" name="5V_DRV">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J10" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J11" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J12" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J13" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J14" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J15" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J8" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U10" pin="5" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U11" pin="8" pinfunction="VDD2" pintype="power_in"/>
+      <node ref="U12" pin="5" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U3" pin="8" pinfunction="VDD2" pintype="power_in"/>
+      <node ref="U4" pin="5" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U5" pin="8" pinfunction="VDD2" pintype="power_in"/>
+      <node ref="U6" pin="5" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U7" pin="8" pinfunction="VDD2" pintype="power_in"/>
+      <node ref="U8" pin="5" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U9" pin="8" pinfunction="VDD2" pintype="power_in"/>
+    </net>
+    <net code="56" name="5V_ISO">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="C26" pin="1" pintype="passive"/>
+      <node ref="F1" pin="2" pintype="passive"/>
+      <node ref="J16" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J17" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J18" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J19" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J20" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J21" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J22" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J23" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J24" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J25" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J26" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J27" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J28" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J29" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J30" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J31" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U13" pin="1" pinfunction="VDD1" pintype="power_in"/>
+      <node ref="U14" pin="1" pinfunction="VDD1" pintype="power_in"/>
+      <node ref="U15" pin="1" pinfunction="VDD1" pintype="power_in"/>
+      <node ref="U16" pin="1" pinfunction="VDD1" pintype="power_in"/>
+      <node ref="U17" pin="1" pinfunction="VDD1" pintype="power_in"/>
+      <node ref="U18" pin="8" pinfunction="VDD2" pintype="power_in"/>
+      <node ref="U19" pin="5" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U20" pin="8" pinfunction="VDD2" pintype="power_in"/>
+      <node ref="U21" pin="5" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U22" pin="8" pinfunction="VDD2" pintype="power_in"/>
+      <node ref="U23" pin="5" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="57" name="5V_PI">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="5V" pintype="power_in"/>
+      <node ref="J1" pin="4" pinfunction="5V" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="58" name="GND_DRV">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="J10" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J11" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J12" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J13" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J14" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J15" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J9" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U10" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U11" pin="5" pinfunction="GND2" pintype="power_in"/>
+      <node ref="U12" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="5" pinfunction="GND2" pintype="power_in"/>
+      <node ref="U4" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="5" pinfunction="GND2" pintype="power_in"/>
+      <node ref="U6" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U7" pin="5" pinfunction="GND2" pintype="power_in"/>
+      <node ref="U8" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U9" pin="5" pinfunction="GND2" pintype="power_in"/>
+    </net>
+    <net code="59" name="GND_ISO">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C26" pin="2" pintype="passive"/>
+      <node ref="C27" pin="2" pintype="passive"/>
+      <node ref="C28" pin="2" pintype="passive"/>
+      <node ref="C29" pin="2" pintype="passive"/>
+      <node ref="C30" pin="2" pintype="passive"/>
+      <node ref="J16" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J17" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J18" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J19" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J20" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J21" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J22" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J23" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J24" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J25" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J26" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J27" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J28" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J29" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J30" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J31" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J7" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J7" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J9" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U13" pin="4" pinfunction="GND1" pintype="power_in"/>
+      <node ref="U14" pin="4" pinfunction="GND1" pintype="power_in"/>
+      <node ref="U15" pin="4" pinfunction="GND1" pintype="power_in"/>
+      <node ref="U16" pin="4" pinfunction="GND1" pintype="power_in"/>
+      <node ref="U17" pin="4" pinfunction="GND1" pintype="power_in"/>
+      <node ref="U18" pin="5" pinfunction="GND2" pintype="power_in"/>
+      <node ref="U19" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U20" pin="5" pinfunction="GND2" pintype="power_in"/>
+      <node ref="U21" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U22" pin="5" pinfunction="GND2" pintype="power_in"/>
+      <node ref="U23" pin="2" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="60" name="GND_PI">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="J1" pin="14" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="20" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="25" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="30" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="34" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="39" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="6" pinfunction="GND" pintype="power_in"/>
+      <node ref="J1" pin="9" pinfunction="GND" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U11" pin="4" pinfunction="GND1" pintype="power_in"/>
+      <node ref="U13" pin="5" pinfunction="GND2" pintype="power_in"/>
+      <node ref="U14" pin="5" pinfunction="GND2" pintype="power_in"/>
+      <node ref="U15" pin="5" pinfunction="GND2" pintype="power_in"/>
+      <node ref="U16" pin="5" pinfunction="GND2" pintype="power_in"/>
+      <node ref="U17" pin="5" pinfunction="GND2" pintype="power_in"/>
+      <node ref="U18" pin="4" pinfunction="GND1" pintype="power_in"/>
+      <node ref="U20" pin="4" pinfunction="GND1" pintype="power_in"/>
+      <node ref="U22" pin="4" pinfunction="GND1" pintype="power_in"/>
+      <node ref="U3" pin="4" pinfunction="GND1" pintype="power_in"/>
+      <node ref="U5" pin="4" pinfunction="GND1" pintype="power_in"/>
+      <node ref="U7" pin="4" pinfunction="GND1" pintype="power_in"/>
+      <node ref="U9" pin="4" pinfunction="GND1" pintype="power_in"/>
+    </net>
+    <net code="61" name="Net-(D1-K)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(D2-K)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(D3-A)">
+      <node ref="C28" pin="1" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="F1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="Vout" pintype="power_out"/>
+    </net>
+    <net code="64" name="Net-(D3-K)">
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(D4-A)">
+      <node ref="C30" pin="1" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="F2" pin="1" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="Vout" pintype="power_out"/>
+    </net>
+    <net code="66" name="Net-(D4-K)">
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(D5-K)">
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(J11-Pin_1)">
+      <node ref="J11" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U4" pin="4" pintype="output"/>
+    </net>
+    <net code="69" name="Net-(J11-Pin_2)">
+      <node ref="J11" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U4" pin="6" pintype="output"/>
+    </net>
+    <net code="70" name="Net-(J12-Pin_1)">
+      <node ref="J12" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U6" pin="4" pintype="output"/>
+    </net>
+    <net code="71" name="Net-(J12-Pin_2)">
+      <node ref="J12" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U6" pin="6" pintype="output"/>
+    </net>
+    <net code="72" name="Net-(J13-Pin_1)">
+      <node ref="J13" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U8" pin="4" pintype="output"/>
+    </net>
+    <net code="73" name="Net-(J13-Pin_2)">
+      <node ref="J13" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U8" pin="6" pintype="output"/>
+    </net>
+    <net code="74" name="Net-(J14-Pin_1)">
+      <node ref="J14" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U10" pin="4" pintype="output"/>
+    </net>
+    <net code="75" name="Net-(J14-Pin_2)">
+      <node ref="J14" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U10" pin="6" pintype="output"/>
+    </net>
+    <net code="76" name="Net-(J15-Pin_1)">
+      <node ref="J15" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U12" pin="4" pintype="output"/>
+    </net>
+    <net code="77" name="Net-(J15-Pin_2)">
+      <node ref="J15" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U12" pin="6" pintype="output"/>
+    </net>
+    <net code="78" name="Net-(J26-Pin_1)">
+      <node ref="J26" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U19" pin="4" pintype="output"/>
+    </net>
+    <net code="79" name="Net-(J27-Pin_1)">
+      <node ref="J27" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U19" pin="6" pintype="output"/>
+    </net>
+    <net code="80" name="Net-(J28-Pin_1)">
+      <node ref="J28" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U21" pin="4" pintype="output"/>
+    </net>
+    <net code="81" name="Net-(J29-Pin_1)">
+      <node ref="J29" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U21" pin="6" pintype="output"/>
+    </net>
+    <net code="82" name="Net-(J30-Pin_1)">
+      <node ref="J30" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U23" pin="4" pintype="output"/>
+    </net>
+    <net code="83" name="Net-(J31-Pin_1)">
+      <node ref="J31" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U23" pin="6" pintype="output"/>
+    </net>
+    <net code="84" name="VCONTROL">
+      <node ref="C27" pin="1" pintype="passive"/>
+      <node ref="C29" pin="1" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="Vin" pintype="power_in"/>
+      <node ref="U2" pin="1" pinfunction="Vin" pintype="power_in"/>
+    </net>
+    <net code="85" name="unconnected-(J1-ID_SC{slash}GPIO1-Pad28)">
+      <node ref="J1" pin="28" pinfunction="ID_SC/GPIO1" pintype="no_connect"/>
+    </net>
+    <net code="86" name="unconnected-(J1-ID_SD{slash}GPIO0-Pad27)">
+      <node ref="J1" pin="27" pinfunction="ID_SD/GPIO0" pintype="no_connect"/>
+    </net>
+  </nets>
+</export>
